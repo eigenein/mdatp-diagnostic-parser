@@ -2,6 +2,8 @@
 
 Revamp of the official [`high_cpu_parser.py`](https://github.com/microsoft/mdatp-xplat/blob/master/linux/diagnostic/high_cpu_parser.py). This project is not affiliated with Microsoft.
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 ```shell
